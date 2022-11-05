@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Subhransu02/random-quote-generator/static/css/main.696b2bbd.css",
+    "main.js": "/Subhransu02/random-quote-generator/static/js/main.50011d08.js",
+    "static/media/city.jpg": "/Subhransu02/random-quote-generator/static/media/city.66512aa4c316df20b752.jpg",
+    "index.html": "/Subhransu02/random-quote-generator/index.html",
+    "main.696b2bbd.css.map": "/Subhransu02/random-quote-generator/static/css/main.696b2bbd.css.map",
+    "main.50011d08.js.map": "/Subhransu02/random-quote-generator/static/js/main.50011d08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.696b2bbd.css",
+    "static/js/main.50011d08.js"
+  ]
+}
