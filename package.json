@@ -1,7 +1,7 @@
 {
   "name": "photo-gallery",
   "version": "0.1.0",
-  "homepage" : "https://github.com/Subhransu02/random-quote-generator.git",
+  "homepage": "https://github.com/Subhransu02/random-quote-generator",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
